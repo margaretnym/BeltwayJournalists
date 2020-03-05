@@ -1,4 +1,4 @@
-# BeltwayJournalists
+# Beltway Journalists
 Open Data for Journal paper published at Social Media and Society. 
 
 Title: <em> Sharing Knowledge and “Micro Bubbles”:  Epistemic Communities and Insularity in US Political Journalism </em>
