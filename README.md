@@ -8,4 +8,4 @@ File descriptions
 - 1123_raw_post_measures.csv is a CSV file showing each Beltway journalists with their assigned community.
 - SM&S_Paper_Submission-0305.ipynb is the basic python (jupyter notebook) file with analysis of top mentions, hashtags in each community.
 
-To comply with Twitter's Terms of Service, we did not publicly share the tweet contents of each Beltway journalist. Part of the files available upon request.
+To comply with Twitter's Terms of Service, we did not publicly share the tweet contents of each Beltway journalist. 
